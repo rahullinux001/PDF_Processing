@@ -1,0 +1,145 @@
+Rockford Memorial Hospital Effective Date: 08/01/2015 HOSPITAL SERVICE AND RATE SCHEDULE EFFECTIVE August 1, 2015 COLA August 1, 2016 INPATIENT START Page 1 of 11 Printed: 1/2/97 07500755/23 03817975/2Rockford Memorial Hospital Effective Date: 08/01/2015 {OUTPATIENT CARVE OUT RATES: Page 2 of 11 Printed: 1/2/97 07500755/23 03817975/2Rockford Memorial Hospital Effective Date: 08/01/2015 PROFESSIONAL COMPO Payment for professional s Schedule.
+TERMS AND CONDITIO All payments are subject to t nts will be based on the level of Definition of Services: The following service definit ny.
+1) “Ambulatory Det ted services such as physician, up, family and adjunctive therap use and supplies, history and phy 2) “Ambulatory Surgery” i surgery in an operating room 3) "Cardiac Testing, Cardi tec 4) tpatient only) includes the administration of chemotherapeutic agents.
+5) es all services {pre-admission services}PATIP END$$$ and all related services for 24 ho for members with substance-related disorders including semi-private accommodations, ro such as physician, psychologist, nurse, counselor and all other treatment staff services; in adjunctive therapies; psychiatric, psychological and medical lab tests; drugs, medicines, eq history and physical examinations and all ancillary services performed at or arranged by Fa member is specifically in a Detoxification Unit.
+6) "Emergency Care" includes all services and covered items related to patient care rendered as a result of an emergency room visit.
+7) “Encounter Data” – Information reported to Company for all laboratory services, as defined by the Centers for Medicare and Medicaid Services (CMS), provided to Company Members that are compensated through a capitation model.
+Page 3 of 11 Printed: 1/2/97 07500755/23 03817975/2
+\begin{tabular}{llll}
+ & S
+ervice & Billing Codes & Rates \\
+1 & S
+ervice & Billing Codes & Rates \\
+2 & Vaginal Delivery W Steriliz & DRG Codes: 
+767-768, 774-775 & $4000.00  $4060.00 Case Rate 
+(DAYS 0-2) \\
+3 & Vaginal Delivery W Steriliz & DRG Codes: 
+767-768, 774-775 & $900.00  $914.00 Per Diem 
+(DAYS 3-999) \\
+4 & Cesarean Section W Cc/mcc & DRG Codes: 
+765-766 & $6000.00  $6090.00 Case Rate 
+(DAYS 0-4) \\
+5 & Cesarean Section W Cc/mcc & DRG Codes: 
+765-766 & $900.00 $914.00 Per Diem 
+(DAYS 5-999) \\
+6 & Normal Newborn & DRG Codes: 
+795 & $800.00 $812.00 Per Diem \\
+7 & Neonates, Died Or Transferred & DRG Codes: 
+789-794 & 65%  of  Billed Charges 
+Rate Applies to Entire Bill \\
+\end{tabular}
+
+\begin{tabular}{llll}
+ & ervice  
+ Billing Codes  
+ Rates &  &  \\
+1 & ervice  
+ Billing Codes  
+ Rates &  &  \\
+2 & Ambulatory Surgery: 
+ Default Rate & All surgical procedures not 
+otherwise identified & 65%  of  Billed Charges 
+Rate Applies to Entire Bill \\
+3 & Emergency Care & Revenue Codes: 
+450, 451, 452, 459 & 65%  of  Billed Charges \\
+4 & Cardiac Catheterization 
+Procedures & HCPC Code: 
+G0448 
+CPT4 Codes: 
+0281T, 0291T, 0292T, 0293T, 
+0294T, 93451-93462, 93503-93505, 
+93530-93533 & 65%  of  Billed Charges 
+Rate Applies to Entire Bill \\
+5 & Cardiac Catheterization Injections & CPT4 Codes: 93563-93568 & 65%  of  Billed Charges 
+Rate Applies to Entire Bill \\
+\end{tabular}
+
+\begin{tabular}{llll}
+ & ervice  
+ Billing Codes  
+ Rates &  &  \\
+1 & ervice  
+ Billing Codes  
+ Rates &  &  \\
+2 & Observation Services & Revenue Codes: 
+760, 762, 769 & 65%  of Billed Charges to Max of 
+$1600.00 $1624.00 
+Paid In Addition to Other Negotiated 
+Rates \\
+3 & Laboratory Services & H
+CPT4 Codes: 
+0085T, 80047-89356, 89398 
+CPC Codes: 
+S3800 & 330%  335% of Aetna Market Fee 
+Schedule Hospital 
+Paid In Addition to Other Negotiated 
+Rates - Technical Rate \\
+4 & Multiple Sleep Latency Or 
+Maintenance Of Wakefulness 
+Testing, Recording, Analysis And 
+Interpretation & CPT4 Codes: 
+95805 & $1271.00 $1290.00 
+Paid In Addition to Other Negotiated 
+Rates 
+Once Per Unique Code Per Service 
+Date \\
+5 & Sleep Study Unatt&resp Efft & CPT4 Codes: 
+95806 & $250.00 $254.00 
+Paid In Addition to Other Negotiated 
+Rates 
+Once Per Unique Code Per Service 
+Date \\
+6 & Sleep Study, Attended & CPT4 Codes: 
+95807 & $755.00 $766.00 
+Paid In Addition to Other Negotiated 
+Rates 
+Once Per Unique Code Per Service 
+Date \\
+7 & Polysomnography; Sleep Staging 
+With 1-3 Additional Parameters 
+Of Sleep, Attended By A 
+Technologist & CPT4 Codes: 
+95808 & $798.00 $810.00 
+Paid In Addition to Other Negotiated 
+Rates 
+Once Per Unique Code Per Service 
+Date \\
+8 & Polysomnography; Sleep Staging 
+With 4 Or More Addl. Parameters 
+Ofsleep Attended By A 
+Technologist & CPT4 Codes: 
+95810 & $1386.00 $1407.00 
+Paid In Addition to Other Negotiated 
+Rates 
+Once Per Unique Code Per Service 
+Date \\
+9 & Polysomnography; Sleep Staging 
+With 4 Or More Addl. Parameters 
+Ofsleep, With Cpap & CPT4 Codes: 
+95811 & $1386.00 $1407.00 
+Paid In Addition to Other Negotiated 
+Rates 
+Once Per Unique Code Per Service 
+Date \\
+\end{tabular}
+
+\begin{tabular}{llll}
+ & Ct Scan & Revenue Codes: 
+350-359 & $740.00 $751.00 
+Paid In Addition to Other Negotiated 
+Rates 
+Once Per Unique Code Per Service 
+Date \\
+1 & Ct Scan & Revenue Codes: 
+350-359 & $740.00 $751.00 
+Paid In Addition to Other Negotiated 
+Rates 
+Once Per Unique Code Per Service 
+Date \\
+2 & Mri & Revenue Codes: 
+610-619 & $850.00 $863.00 
+Paid In Addition to Other Negotiated 
+Rates 
+Once Per Unique Code Per Service 
+Date \\
+\end{tabular}
